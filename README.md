@@ -21,7 +21,7 @@ The Splunk project aims to use a controlled environment for performing brute for
 - System Monitor: [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon); [Olaf-Configuration](https://github.com/olafhartong/sysmon-modular/blob/master/sysmonconfig.xml) Specific configuration to monitor specific types of events. 
 - Brute Force Tool: [Crowbar](https://www.kali.org/tools/crowbar/) Performs brute force during the penetration test, View telemetry on Splunk created by the brute force attack.
 
-## Preconfigured network settings
+## Prerequisites For Network Configurations 
 Refer to [VirtualBox & Active Directory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory) for setting up the network that will be used. The first nine reference photos will be used as a guide for setting up the network. 
 
 ## Walkthrough
