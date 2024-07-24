@@ -8,7 +8,7 @@ The Splunk project aims to use a controlled environment for performing brute for
 
 - Establishing cross-platform file sharing through virtual machine configurations
 - Deployment of Splunk Enterprise on Ubuntu and Splunk Universal Forwarder on Windows 10
-- Understanding data collection, indexing, and perform data query with real-time data in Splunk
+- Understanding data collection, indexing, and performing data query with real-time data in Splunk
 - Utilizing Splunk for security information and event management
 - Perform controlled brute force attacks against authentication mechanisms. 
 - Use of automation to automate RDP brute force login attempts
@@ -170,7 +170,7 @@ click on apps at the top and go to searching & reporting in the search bar type 
 > Event code 4624 = Account successfully logged on <br>
 > Event code 4625 = Account failed to log on 
 
-<img src="https://i.imgur.com/7LeC5nM.png" width="500" > <br> <sup>Ref 14: Perform data query in Splunk </sup>
+<img src="https://i.imgur.com/7LeC5nM.png" width="500" > <br> <sup>Ref 14: Performing data query in Splunk </sup>
 <br>
 <img src="https://i.imgur.com/NyvmwNb.png" width="500" > <br> <sup>Ref 15: This shows that a logon from user jdoe was successful from the machine Kali </sup>
 
