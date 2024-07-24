@@ -7,10 +7,10 @@ The Splunk project aims to use a controlled environment for performing brute for
 ### Skills Learned
 
 - Establishing cross-platform file sharing through virtual machine configurations
-- Deployment of Splunk Enterprise on Ubuntu and Splunk Universal Forwarder on Windows 10
-- Understanding data collection, indexing, and performing data query with real-time data in Splunk
-- Utilizing Splunk for security information and event management
-- Perform controlled brute force attacks against authentication mechanisms. 
+- Splunk Deployment: Deployment of Splunk Enterprise on Ubuntu and Splunk Universal Forwarder on Windows 10
+- Data handling in Splunk: Understanding data collection, indexing, and performing data query with real-time data in Splunk
+- Splunk for SIEM: Utilizing Splunk for security information and event management
+- Brute force Attack: Perform controlled brute force attacks against authentication mechanisms. 
 - Use of automation to automate RDP brute force login attempts
 
 ### Tools Used
