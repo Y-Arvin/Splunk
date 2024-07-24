@@ -157,10 +157,10 @@ Edit the `passwords.txt` file to add a known password to the list. Run Crowbar, 
 $ nano passwords.txt
 $ crowbar -b rdp -u jdoe -C passwords.txt -s 192.168.10.100/32
 ```
-> -b = target service
-> -u = username
-> -C = file
-> -s = source IP 
+> -b = Target service <br>
+> -u = Username <br>
+> -C = File <br>
+> -s = Source IP 
 
 ⚠️*Target PC* needs to have RDP enabled⚠️<br>
 <img src="https://i.imgur.com/nUJE1ti.png" width="500" > <br> <sup>Ref 13: Crowbar uses passwords.txt to RDP user jdoe on 192.168.10.100/32 </sup>
