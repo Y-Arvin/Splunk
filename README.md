@@ -113,9 +113,9 @@ Open up services as admin. Locate SplunkFowarder service. Double-click it, go to
 <img src="https://i.imgur.com/OPxRE9H.png" width="500" > <br> <sup>Ref 7: Local system account & Restart service</sup>
 
 **Log in to Splunk server** <br>
-⚠️Splunk listens on 8000⚠️ <br>
-Open a web browser and type in "192.168.10.10:8000" <br>
+Open a web browser and type in `192.168.10.10:8000` <br>
 log in, go to the settings tab, and click indexes. Create an index called `endpoint` as all the information is being forwarded under `endpoint` as the `inputs.conf` has stated.
+> Splunk listens on 8000
 
 <img src="https://i.imgur.com/E0ZUXEi.png" width="400" > <img src="https://i.imgur.com/ZC52OWL.png" width="400" > <br> <sup>Ref 8: Log in Splunk & Create an index called endpoint </sup>
 
